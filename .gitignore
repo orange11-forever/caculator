@@ -1,4 +1,8 @@
 # C++ objects and libs
+# Build
+build/
+.cache/
+
 *.slo
 *.lo
 *.o
