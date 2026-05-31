@@ -1,0 +1,31 @@
+# Build output
+build/
+
+# Qt Creator
+.cache/
+.qtcreator/
+*.pro.user
+*.autosave
+
+# CMake generated
+CMakeLists.txt.user
+
+# Compiled object files
+*.o
+*.obj
+*.moc
+*.rcc
+*.ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
